@@ -10,8 +10,8 @@ def main():
     print("2*3={}".format(2 * 3))
     print("55/12={}".format(55 / 12))
     print("5%2={}".format(5 % 2))
-    print("5**4={}".format(5**4))
-    print("25**0.5={}".format(25**0.5))
+    print("5**4={}".format(5 ** 4))
+    print("25**0.5={}".format(25 ** 0.5))
 
 
 if __name__ == "__main__":
